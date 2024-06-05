@@ -1,0 +1,25 @@
+body
+{
+    background-color: black;
+}
+
+header
+{
+    color: white;
+    background-image: url(https://www.onlygfx.com/wp-content/uploads/2018/03/blue-polygonal-background-fade-4-1024x629.png);
+    text-align: center;
+    height: 150px;
+    background-size: cover;
+    background-color: black;
+    padding: 150px;
+}
+
+main
+{
+    color: white;
+}
+
+footer
+{
+    text-align: center;
+}
